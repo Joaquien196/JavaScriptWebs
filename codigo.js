@@ -1,4 +1,4 @@
-Nombre = ("dime tu nombre!")
+Nombre = prompt ("dime tu nombre!")
 
 Bienvenida = (" Bienvenida/o a la mejor pagina redumida de JavaScript")
 

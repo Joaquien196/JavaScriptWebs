@@ -1,6 +1,27 @@
-h2{
-	color: dark
+
+
+p{
+	font-size: 1.9em;
 }
+
+html{
+	scroll-behavior: smooth;
+}
+
+
+section[id] {
+	scroll-margin-top: 65px;
+}
+
+
+h2{
+	font-size: 3em;
+	color: black;
+	border: solid;
+	border-radius: 15px;
+
+}
+
 
 
 header{
@@ -43,5 +64,9 @@ nav a:hover{
 	
 	nav{
 		padding: 10px 0px;
+	}
+
+	.Funciones{
+		height: 175px;
 	}
 }
